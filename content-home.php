@@ -1,3 +1,7 @@
+<?php 
+$PHONE = "+40 773 719 332";
+$EMAIL = "hello@wheredesign.is"
+?>
 <section id="content">
 
     <div class="content-wrap">
@@ -71,7 +75,7 @@
 
         <div class="promo parallax promo-dark promo-flat promo-full topmargin-sm nobottommargin nobottompadding" style="background-image: url('images/wheredesign-wall.jpg'); background-position: 50% 146.5px;" data-stellar-background-ratio="0.5">
             <div class="container clearfix">
-                <h3>Call us today at <span>+91.22.57412541</span> or Email us at <span>support@canvas.com</span></h3>
+                <h3>Call us today at <span><?= $PHONE ?></span> or Email us at <span><?= $EMAIL ?></span></h3>
                 <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
                 <a href="#" class="button button-light button-xlarge button-border button-rounde infinite " data-animate="pulse">Start Now</a>
             </div>

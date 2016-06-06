@@ -53,6 +53,8 @@
         }
     });
 
+    $('#google-map').gMap('centerAt', { latitude: -2.82, longitude: -80.272, zoom: 17 });
+
 </script>
 </body>
 </html>

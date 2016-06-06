@@ -9,7 +9,7 @@
     ?>
     <!-- Content
     ============================================= -->
-    <?php include "content-works.php" ?>
+    <?php include "partial/content-works.php" ?>
 
     <!-- Footer
     ============================================= -->

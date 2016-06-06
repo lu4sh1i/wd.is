@@ -63,11 +63,6 @@
                     </div>
 
                     <div class="col_full">
-                        <label for="template-contactform-message">Upload CV <small>*</small></label>
-                        <input type="file" id="template-contactform-file" name="template-contactform-file" value="" class="required sm-form-control" />
-                    </div>
-
-                    <div class="col_full">
                         <label for="template-contactform-message">Message <small>*</small></label>
                         <textarea class="required sm-form-control" id="template-contactform-message" name="template-contactform-message" rows="6" cols="30"></textarea>
                     </div>
