@@ -1,4 +1,4 @@
-<section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix" data-loop="true">
+<section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix">
 
     <div class="slider-parallax-inner">
 
@@ -23,7 +23,7 @@
                         <video poster="images/videos/light-wheredesign.jpg" preload="auto" loop autoplay muted>
                             <source src='images/videos/light-wheredesign.mp4' type='video/mp4' />
                         </video>
-<!--                        <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>-->
+                        <!--                        <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>-->
                     </div>
                 </div>
 

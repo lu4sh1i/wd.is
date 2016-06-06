@@ -5,6 +5,45 @@
 	Overwriting Default Theme Styles for Better Hanlding Updates
 -----------------------------------------------------------------*/
 
+.my-lead {
+    font-size:1.2em;
+}
+
+.home-icons {
+    font-size: 172px !important;
+    line-height: 247px !important;
+}
+
+.feature-box.fbox-center .my-fbox {
+    width: 236px ;
+    height: 236px;
+}
+
+
+.button-full-rounded {
+    border-radius:200px;
+}
+
+.drop-shadow-1 {
+    -webkit-box-shadow:  0px 12px 27px 0px rgba(31, 29, 50, 0.4),0px 19px 27px -12px rgba(53, 255, 179, 0.76);
+    -moz-box-shadow:  0px 12px 27px 0px rgba(31, 29, 50, 0.4),0px 19px 27px -12px rgba(53, 255, 179, 0.76);
+    box-shadow:  0px 12px 27px 0px rgba(31, 29, 50, 0.4),0px 19px 27px -12px rgba(53, 255, 179, 0.76);
+}
+
+
+.button-wd {
+    background-color: #7dff5d;
+    color:#000;
+}
 
 
 
+
+.button-wd:hover {
+    background-color:#146446 !important;
+}
+
+#contact-form-overlay-mini {
+    width: 518px;
+
+}

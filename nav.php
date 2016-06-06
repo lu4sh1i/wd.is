@@ -1,4 +1,4 @@
-<header id="header" class="transparent-header">
+<header id="header" class="transparent-header <?= isset($DARK) ? $DARK : ""?>">
 
     <div id="header-wrap">
 
@@ -9,8 +9,8 @@
             <!-- Logo
             ============================================= -->
             <div id="logo">
-                <a href="index.html" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Canvas Logo"></a>
-                <a href="index.html" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a>
+                <a href="<?= isset ($HOME) ? $HOME : "index.php"?>" class="standard-logo" data-dark-logo="images/logo.png"><img src="images/logo.png" alt="Canvas Logo"></a>
+                <a href="<?= isset ($HOME) ? $HOME : "index.php"?>" class="retina-logo" data-dark-logo="images/logo@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a>
             </div><!-- #logo end -->
 
             <!-- Primary Navigation
@@ -18,10 +18,10 @@
             <nav id="primary-menu">
 
                 <ul>
-                    <li class="current"><a href="index.html"><div>Studio</div></a>
+                    <li><a href="<?= isset ($HOME) ? $HOME : "index.php"?>"><div>Studio</div></a>
                         <ul>
-                            <li><a href="index-corporate.html"><div>Home - Corporate</div></a></li>
-                            <li><a href="index-corporate.html"><div>Home - Corporate</div></a></li>
+                            <li><a href="your-brand.php"><div>Your Brand</div></a></li>
+                            <li><a href="your-website.php"><div>Your Website</div></a></li>
                         </ul>
                     </li>
                     <li><a href="#"><div>Works</div></a>   </li>

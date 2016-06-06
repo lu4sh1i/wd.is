@@ -10,7 +10,7 @@
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Playfair+Display:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
     <link rel="stylesheet" href="<?= isset($STYLECSS) ? $STYLECSS : 'style.css' ?>" type="text/css" />
-    <link rel="stylesheet" href="<?= isset($SWIPER) ? $SWIPER : '/swiper.css'?>" type="text/css" />
+    <link rel="stylesheet" href="<?= isset($SWIPER) ? $SWIPER : 'css/swiper.css'?>" type="text/css" />
     <link rel="stylesheet" href="<?= isset($DARK) ? $DARK :'css/dark.css'?>" type="text/css" />
     <link rel="stylesheet" href="<?= isset($FONTICONS) ? $FONTICONS :'css/font-icons.css'?>" type="text/css" />
     <link rel="stylesheet" href="<?= isset($ANIMATE) ? $ANIMATE :'css/animate.css'?>" type="text/css" />
@@ -27,7 +27,7 @@
 
     <!-- Document Title
     ============================================= -->
-    <title><?= isset($TITTLE) ? $TITLE : "Where Design is "?></title>
+    <title><?= isset($TITTLE) ? $TITTLE : "Where Design is "?></title>
 
     <?php if (function_exists('customPageHeader')){
         customPageHeader();
