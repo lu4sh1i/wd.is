@@ -19,10 +19,10 @@
 
                 <ul>
                     <li><a href="<?= isset ($HOME) ? $HOME : "index.php"?>"><div>Studio</div></a>
-                        <ul>
+                       <!--  <ul>
                             <li><a href="your-brand.php"><div>Your Brand</div></a></li>
                             <li><a href="your-website.php"><div>Your Website</div></a></li>
-                        </ul>
+                        </ul> -->
                     </li>
                     <li><a href="works.php"><div>Works</div></a>   </li>
                     <li><a href="services.php"><div>Services</div></a> </li>

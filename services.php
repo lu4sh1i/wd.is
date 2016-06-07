@@ -6,11 +6,11 @@
 
     <?php
     include "nav.php";
-    include "slider.php";
+    include "sliders/slider-yw.php";
     ?>
     <!-- Content
     ============================================= -->
-    <?php include "/partial/content-services.php" ?>
+    <?php include "partial/content-services.php" ?>
 
     <!-- Footer
     ============================================= -->

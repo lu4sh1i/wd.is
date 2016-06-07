@@ -35,4 +35,4 @@
 
 </head>
 
-<body class="stretched">
+<body class="stretched" data-loader="5"  data-animation-in="fadeIn" data-speed-in="1500" data-animation-out="fadeOut" data-speed-out="800" data-loader-color"#35FFB3">
