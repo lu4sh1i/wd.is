@@ -24,9 +24,9 @@
                             <li><a href="your-website.php"><div>Your Website</div></a></li>
                         </ul>
                     </li>
-                    <li><a href="#"><div>Works</div></a>   </li>
-                    <li><a href="#"><div>Services</div></a> </li>
-                    <li><a href="#"><div>Contact</div></a> </li>
+                    <li><a href="works.php"><div>Works</div></a>   </li>
+                    <li><a href="services.php"><div>Services</div></a> </li>
+                    <li><a href="contact.php"><div>Contact</div></a> </li>
                 </ul>
             </nav>
         </div>
