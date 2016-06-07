@@ -21,7 +21,7 @@
 
 	<!-- Go To Top
 	============================================= -->
-	<?php include "bottom-js.php";?>
+	<?php include "bottom-js.php"; ?>
 
 </body>
 </html>

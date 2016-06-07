@@ -48,10 +48,10 @@
                         <label for="template-contactform-service">Services</label>
                         <select id="template-contactform-service" name="template-contactform-service" class="sm-form-control">
                             <option value="">-- Select One --</option>
-                            <option value="Wordpress">Wordpress</option>
-                            <option value="PHP / MySQL">PHP / MySQL</option>
-                            <option value="HTML5 / CSS3">HTML5 / CSS3</option>
+                            <option value="Wordpress">Website Design</option>
                             <option value="Graphic Design">Graphic Design</option>
+                            <option value="Company Branding And Identity Design">Company Branding And Identity Design</option>
+                            <option value="Landing Page">Landing Page</option>
                         </select>
                     </div>
 

@@ -9,8 +9,8 @@
             <!-- Logo
             ============================================= -->
             <div id="logo">
-                <a href="<?= isset ($HOME) ? $HOME : "index.php"?>" class="standard-logo" data-dark-logo="images/logo.png"><img src="images/logo.png" alt="Canvas Logo"></a>
-                <a href="<?= isset ($HOME) ? $HOME : "index.php"?>" class="retina-logo" data-dark-logo="images/logo@2x.png"><img src="images/logo@2x.png" alt="Canvas Logo"></a>
+                <a href="<?= isset ($HOME) ? $HOME : "index.php"?>" class="standard-logo" data-dark-logo="images/logo.png"><img src="images/logo.png" alt="Where Design logo"></a>
+                <a href="<?= isset ($HOME) ? $HOME : "index.php"?>" class="retina-logo" data-dark-logo="images/logo@2x.png"><img src="images/logo@2x.png" alt="Where Design logo"></a>
             </div><!-- #logo end -->
 
             <!-- Primary Navigation
