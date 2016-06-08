@@ -35,13 +35,10 @@
                         <h4>Quick links</h4>
 
                         <ul>
-                            <li><a href="http://codex.wordpress.org/">Documentation</a></li>
-                            <li><a href="http://wordpress.org/support/forum/requests-and-feedback">Feedback</a></li>
-                            <li><a href="http://wordpress.org/extend/plugins/">Plugins</a></li>
-                            <li><a href="http://wordpress.org/support/">Support Forums</a></li>
-                            <li><a href="http://wordpress.org/extend/themes/">Themes</a></li>
-                            <li><a href="http://wordpress.org/news/">WordPress Blog</a></li>
-                            <li><a href="http://planet.wordpress.org/">WordPress Planet</a></li>
+                            <li><a href="index.php">Studio</a></li>
+                            <li><a href="works.php">Works</a></li>
+                            <li><a href="services.php">Services</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
 
                     </div>
@@ -108,8 +105,7 @@
         <div class="container clearfix">
 
             <div class="col_half">
-                Copyrights &copy; 2014 All Rights Reserved by Canvas Inc.<br>
-                <div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
+                Copyrights &copy; <?= date("Y") ?> All Rights Reserved by Where Design SRL - D<br>
             </div>
 
             <div class="col_half col_last tright">

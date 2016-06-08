@@ -16,7 +16,7 @@
                                 and now you will <strong>get an instant</strong> discount for your project
                                 <br>Just mention #MAGIC in your subject
                             </p>
-                            <a href="mailto:hello@wheredesign.is" class="button button-wd button-full-rounded
+                            <a href="mailto:hello@wheredesign.is?subject=#MAGIC%20request&body=My+name+is:+%28Insert+Name%29%0AI%20need%20a%20cost%20estimate%20for:%20%28insert%20project%29%0AWhere%20did%20you%20hear%20about%20us%3F" class="button button-wd button-full-rounded
                             drop-shadow-1 button-large topmargin-sm infinite" data-caption-delay="2000" data-caption-animate="pulse" >CONTACT US NOW</a>
                         </div>
                     </div>
@@ -28,4 +28,3 @@
     </div>
 
 </section>
-

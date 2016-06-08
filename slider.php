@@ -7,7 +7,7 @@
                 <div class="swiper-slide" style="background-image: url('images/slider/swiper/3.jpg'); background-position: center top;">
                     <div class="container clearfix">
                         <div class="slider-caption home-caption">
-                            <h5 data-caption-animate="fadeInUp" style="font-size:28px">WE ARE</h5>
+                            <h5 data-caption-animate="fadeInUp" style="font-size:28px; font-weight:300;">WE ARE</h5>
 
                               <span class="text-rotater" data-separator="|" data-rotate="fadeInUp" data-speed="5000">
                                 <p class="t-rotate t700 font-body" style="color:#222; font-size:45px">designing awesome websites.|creating amazing brand experiences.|making client's projects prosper.|WHERE DESIGN.</p>

@@ -23,7 +23,7 @@
                         <div class="col-md-12">
                             <div class="web-card drop-shadow-3 white-bg">
                                <p class="lead">
-                                   We designed and developed <a href="http://clinica-evydent.ro" target="_blank">this</a>  responsive websitefor <strong>EvyDent</strong>, a dental clinic based in Bucharest. 
+                                   We designed and developed <a href="http://clinica-evydent.ro" target="_blank">this</a>  responsive website for <strong>EvyDent</strong>, a dental clinic based in Bucharest. 
                                </p>
                                <p class="lead">We also designed it's brand identity and customized the <a href="https://facebook.com/ClinicaEvydent">facebook page</a></p>
                                <a href="http://clinica-evydent.ro" class="button" target="blank">Launch Website</a>
