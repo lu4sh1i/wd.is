@@ -27,6 +27,8 @@
                 <div class="video-wrap">
                     <video poster="images/videos/light-wheredesign.jpg" preload="auto" loop autoplay muted>
                         <source src='images/videos/light-wheredesign.mp4' type='video/mp4' />
+                        <source src='images/videos/light-wheredesign.webm' type='video/webm' />
+                        
                     </video>
                     <!--                        <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>-->
                 </div>
