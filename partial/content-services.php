@@ -8,7 +8,7 @@ $EMAIL = "hello@wheredesign.is"
 
 		<div class="container clearfix">
 
-			<p class="lead">In todays digital-centric world, your website is the virtual storefront to your business. Cick here for your instant website design estimate.</p>
+			<!-- <p class="lead">In todays digital-centric world, your website is the virtual storefront to your business. Cick here for your instant website design estimate.</p> -->
 
 		</div>
 		<div class="topmargin-lg">&nbsp;</div>
