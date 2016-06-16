@@ -32,7 +32,7 @@ $EMAIL = "hello@wheredesign.is"
                             We provide everything you need from the domain name, to hosting, to designing and building the website itself.
                             Our offline projects are focused on graphic design and printing.
                             Most of our clients not only need a presence online, but also physical marketing material
-                            such as business cards, brochures, and flyers. We not only design these pieces, but can also have
+                            such as business cards, brochures, and flyers. We not only design these pieces, but can also
                             recommend a printing service for you.
                         </p>
                         <a href="services.php" class="button button-3d button-large button-rounded button-red">Learn more</a>

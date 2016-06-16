@@ -1,2 +1,8 @@
-RewriteEngine  on
-RewriteRule ^(.*)$ $1.php
+#RewriteEngine  on
+#RewriteRule ^(.*)$ $1.php
+
+#DirectoryIndex index_good.php index.php
+
+RewriteRule ^(.+)\.php$ /$1 [R,L]
+RewriteCond %{REQUEST_FILENAME}.php -f
+#RewriteRule ^(.*?)/?$ /$1.php [NC,END]
