@@ -76,7 +76,7 @@ $EMAIL = "hello@wheredesign.is"
         <div class="promo parallax promo-dark promo-flat promo-full topmargin-sm nobottommargin nobottompadding" style="background-image: url('images/wheredesign-wall.jpg'); background-position: 50% 146.5px;" data-stellar-background-ratio="0.5">
             <div class="container clearfix">
                 <h3>Call us today at <span><?= $PHONE ?></span> or Email us at <span><?= $EMAIL ?></span></h3>
-                <span>We strive to provide Our Customers with Top Notch Support to make their Theme Experience Wonderful</span>
+
                 <a href="#" class="button button-light button-xlarge button-border button-rounde infinite " data-animate="pulse">Start Now</a>
             </div>
         </div>
