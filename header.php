@@ -21,6 +21,8 @@
     <link rel="stylesheet" href="<?= isset($CUSTOM) ? $CUSTOM : 'css/custom.css'?>" type="text/css" />
     
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:image" content="<?= isset ($PAGEIMG) ? $PAGEIMG : 'http://wheredesign.is/images/wheredesign-wall.jpg' ?>" /> 
+
     <!--[if lt IE 9]>
     <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
     <![endif]-->
