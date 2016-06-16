@@ -27,7 +27,7 @@
 
     <!-- Document Title
     ============================================= -->
-    <title><?= isset($TITTLE) ? $TITTLE : "Where Design is "?></title>
+    <title><?= isset($TITLE) ? $TITLE : "Where Design is "?></title>
 
     <?php if (function_exists('customPageHeader')){
         customPageHeader();

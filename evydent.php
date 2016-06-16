@@ -1,5 +1,5 @@
 <?php
-
+    $TITLE = "EvyDent Dental Clinic";
     include "header.php" ?>
 
     <!-- Document Wrapper

@@ -1,4 +1,8 @@
-<?php include "header.php" ?>
+<?php 
+
+$TITLE = "Studio Where Design";
+
+include "header.php" ?>
 
 <!-- Document Wrapper
 ============================================= -->

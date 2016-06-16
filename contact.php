@@ -1,4 +1,6 @@
-<?php include "header.php" ?>
+<?php 
+$TITLE = "Contact Where Design";
+include "header.php" ?>
 
 <!-- Document Wrapper
 ============================================= -->

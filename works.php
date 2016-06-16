@@ -1,4 +1,7 @@
-<?php include "header.php" ?>
+<?php
+
+$TITLE = "Works of Where Design";
+include "header.php" ?>
 
 <!-- Document Wrapper
 ============================================= -->

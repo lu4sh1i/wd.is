@@ -1,4 +1,8 @@
-<?php include "header.php" ?>
+<?php 
+
+$TITLE = "Where design is WEB | PRINT";
+
+include "header.php" ?>
 
 	<!-- Document Wrapper
 	============================================= -->
