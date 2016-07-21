@@ -1,6 +1,6 @@
 <?php 
 
-$TITLE = "Where design is WEB | PRINT";
+$TITLE = "Where design is all about WEB and PRINT";
 
 include "header.php" ?>
 

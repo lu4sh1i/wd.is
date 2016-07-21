@@ -22,7 +22,8 @@
     
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta property="og:image" content="<?= isset ($PAGEIMG) ? $PAGEIMG : 'http://wheredesign.is/images/wheredesign-wall.jpg' ?>" /> 
-<meta name="google-site-verification" content="5tMRk_Zwzd6-q0J65R_xdQPqSL6Zl2FBlXmAXe7ObtQ" />
+    <meta name="google-site-verification" content="5tMRk_Zwzd6-q0J65R_xdQPqSL6Zl2FBlXmAXe7ObtQ" />
+    <meta name="p:domain_verify" content="56469acda3c571ac595fe2d5ea46c9aa"/>
     <!--[if lt IE 9]>
     <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
     <![endif]-->
