@@ -5,6 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="Where Design" />
 
+    <link rel="alternate" hreflang="x-default" href="http://wheredesign.is/" />
     <!-- Stylesheets
     ============================================= -->
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Playfair+Display:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
