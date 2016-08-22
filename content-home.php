@@ -35,7 +35,7 @@ $EMAIL = "hello@wheredesign.is"
                             such as business cards, brochures, and flyers. We not only design these pieces, but can also
                             recommend a printing service for you.
                         </p>
-                        <a href="services.php" class="button button-3d button-large button-rounded button-red">Learn more</a>
+				<a href="services" class="button button-3d button-large button-rounded button-red">Learn more</a>
 
                     </div>
 
@@ -59,7 +59,7 @@ $EMAIL = "hello@wheredesign.is"
                         </a>
                     </div>
                     <div class="portfolio-desc">
-                        <h3><a href="evydent.php">Clinica EvyDent</a></h3>
+				<h3><a href="evydent">Clinica EvyDent</a></h3>
                         <span><a href="#">Branding</a>, <a href="#">Website Design</a></span>
                     </div>
                 </article>
@@ -75,9 +75,9 @@ $EMAIL = "hello@wheredesign.is"
 
         <div class="promo parallax promo-dark promo-flat promo-full topmargin-sm nobottommargin nobottompadding" style="background-image: url('images/wheredesign-wall.jpg'); background-position: 50% 146.5px;" data-stellar-background-ratio="0.5">
             <div class="container clearfix">
-                <h3>Call us today at <span><?= $PHONE ?></span> or Email us at <span><?= $EMAIL ?></span></h3>
+			<h3>Call us today at <span><a href="tel:<?= $PHONE ?>"><?= $PHONE ?></a></span> or Email us at <span><a href="mailto:<?= $EMAIL ?>"><?= $EMAIL ?></a></span></h3>
 
-                <a href="#" class="button button-light button-xlarge button-border button-rounde infinite " data-animate="pulse">Start Now</a>
+			<a href="contact" class="button button-light button-xlarge button-border button-rounde infinite " data-animate="pulse">Start Now</a>
             </div>
         </div>
 

@@ -18,7 +18,7 @@ include "header.php" ?>
                 <h1>Our latest works</h1>
                 <span>What we have been working on lately</span>
                 <ol class="breadcrumb">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="/">Home</a></li>
                     <li><a href="#">Works</a></li>
                 </ol>
             </div>

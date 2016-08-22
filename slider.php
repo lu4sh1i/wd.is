@@ -20,7 +20,7 @@
                     <div class="slider-caption slider-caption-center">
                         <h2 data-caption-animate="fadeInUp">READY FOR ACTION?</h2>
                         <p data-caption-animate="fadeInUp" data-caption-delay="200">Contact us &amp; let's get to work with your project</p>
-                         <a href="contact.php" class="topmargin-sm button button-rounded button-reveal button-large button-red tright drop-shadow-2 " data-animate="fadeInUp" data-delay="400">Start Now</a>
+                         <a href="contact" class="topmargin-sm button button-rounded button-reveal button-large button-red tright drop-shadow-2 " data-animate="fadeInUp" data-delay="400">Start Now</a>
                     </div>
 
                 </div>

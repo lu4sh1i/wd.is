@@ -1,8 +1,11 @@
-#RewriteEngine  on
-#RewriteRule ^(.*)$ $1.php
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^([a-zA-Z0-9-_]+)$ $1.php [QSA,L]
+</IfModule>
 
-#DirectoryIndex index_good.php index.php
-
-RewriteRule ^(.+)\.php$ /$1 [R,L]
-RewriteCond %{REQUEST_FILENAME}.php -f
-#RewriteRule ^(.*?)/?$ /$1.php [NC,END]
+<IfModule mod_alias.c>
+    RedirectMatch 404 /wd.is
+</IfModule>

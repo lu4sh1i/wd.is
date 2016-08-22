@@ -35,10 +35,10 @@
                         <h4>Quick links</h4>
 
                         <ul>
-                            <li><a href="index.php">Studio</a></li>
-                            <li><a href="works.php">Works</a></li>
-                            <li><a href="services.php">Services</a></li>
-                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="/">Studio</a></li>
+                            <li><a href="works">Works</a></li>
+                            <li><a href="services">Services</a></li>
+                            <li><a href="contact">Contact</a></li>
                         </ul>
 
                     </div>
