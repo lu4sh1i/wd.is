@@ -35,7 +35,7 @@ $EMAIL = "hello@wheredesign.is"
                             such as business cards, brochures, and flyers. We not only design these pieces, but can also
                             recommend a printing service for you.
                         </p>
-				<a href="services" class="button button-3d button-large button-rounded button-red">Learn more</a>
+                        <a href="services" class="button button-3d button-large button-rounded button-red">Learn more</a>
 
                     </div>
 
@@ -53,34 +53,46 @@ $EMAIL = "hello@wheredesign.is"
             <div id="portfolio" class="portfolio grid-container portfolio-2 clearfix">
 
                 <article class="portfolio-item pf-media pf-icons" data-animate="fadeInLeft">
-                    <div class="portfolio-image">
+                    <div class="">
                         <a href="evydent.php">
-                            <img src="images/evydent/evydent.jpg" alt="Open Imagination">
+                            <div class="atvImg" style="height:300px">
+                                <img src="images/evydent/evydent.jpg">
+
+                                <div class="atvImg-layer" data-img="images/evydent/cover-evy.png"></div>
+                                <div class="atvImg-layer" data-img="images/evydent/evydent-logo.png"></div>
+                                <div class="atvImg-layer" data-img="images/evydent/heart.png"></div>
+
+                            </div>
                         </a>
                     </div>
                     <div class="portfolio-desc">
-				<h3><a href="evydent">Clinica EvyDent</a></h3>
-                        <span><a href="#">Branding</a>, <a href="#">Website Design</a></span>
+                        <h3><a href="evydent">Clinica EvyDent</a></h3>
+                        <span><a href="#">Branding</a></span>
                     </div>
                 </article>
+ <article class="portfolio-item pf-media pf-icons" data-animate="fadeInLeft">
+ <div id="dribbble" class="widget clearfix">
 
+                    <h4 class="highlight-me">Dribbble Shots</h4>
+                    <div id="dribbble-widget" class="dribbble-shots masonry-thumbs" data-user="wheredesign" data-count="16" data-type="user"></div>
 
+                </div>
 
+</article>
             </div><!-- #portfolio end -->
 
-
-
+                
         </div>
         <div class="clear"></div>
 
         <div class="promo parallax promo-dark promo-flat promo-full topmargin-sm nobottommargin nobottompadding" style="background-image: url('images/wheredesign-wall.jpg'); background-position: 50% 146.5px;" data-stellar-background-ratio="0.5">
             <div class="container clearfix">
-			<h3>Call us today at <span><a href="tel:<?= $PHONE ?>"><?= $PHONE ?></a></span> or Email us at <span><a href="mailto:<?= $EMAIL ?>"><?= $EMAIL ?></a></span></h3>
+               <h3>Call us today at <span><a href="tel:<?= $PHONE ?>"><?= $PHONE ?></a></span> or Email us at <span><a href="mailto:<?= $EMAIL ?>"><?= $EMAIL ?></a></span></h3>
 
-			<a href="contact" class="button button-light button-xlarge button-border button-rounde infinite " data-animate="pulse">Start Now</a>
-            </div>
-        </div>
+               <a href="contact" class="button button-light button-xlarge button-border button-rounde infinite " data-animate="pulse">Start Now</a>
+           </div>
+       </div>
 
-    </div>
+   </div>
 
 </section><!-- #content end -->
