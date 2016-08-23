@@ -15,28 +15,6 @@
 <div class="clearfix"></div>
 <section id="content">
 
-        <div class="clearfix">
-
-           <div class="section parallax nomargin notopborder" style="background: url('images/evydent/evydent-showcase.jpg') center center; padding: 100px 0;" data-stellar-background-ratio="0.3">
-                    <div class="container center clearfix">
-
-                        <div class="col-md-12">
-                            <div class="web-card drop-shadow-3 white-bg">
-                               <p class="lead">
-                                   We designed and developed <a href="http://clinica-evydent.ro" target="_blank">this</a>  responsive website for <strong>EvyDent</strong>, a dental clinic based in Bucharest. 
-                               </p>
-                               <p class="lead">We also designed it's brand identity and customized the <a href="https://facebook.com/ClinicaEvydent">facebook page</a></p>
-                               <a href="http://clinica-evydent.ro" class="button" target="blank">Launch Website</a>
-                            </div>
-                        </div>
-                        <div class="clearfix"></div>
-                        <div class="clear"></div>
-                        
-
-                    </div>
-                </div>
-            
-        </div>
 <div class="container clearfix">
     <div class="col_one_third">
         <img src="images/evydent/basic-shapes.jpg" alt="basic shapes evydent" data-animate="fadeInLeft">

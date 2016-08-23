@@ -124,3 +124,20 @@
     font-family:'Playfair Display';
     font-weight: 400;
 }
+
+@media (max-width: 767px) {
+    .slider-caption p {
+        font-size: .9em;
+        display: block !important;
+    }
+    .slider-caption .button {
+        display: block !important;
+    }
+}
+
+@media (max-width: 479px) {
+    .container, #header.full-header .container, .container-fullwidth {
+        width:100% !important;
+    }
+}
+

@@ -1,5 +1,7 @@
 var $ = jQuery.noConflict();
 
+atvImg();
+
 $.fn.inlineStyle = function (prop) {
 	return this.prop("style")[$.camelCase(prop)];
 };
