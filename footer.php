@@ -51,7 +51,7 @@
                         <i class="icon-facebook"></i>
                         <i class="icon-facebook"></i>
                     </a>
-                    <a href="#"><small style="display: block; margin-top: 3px;"><strong>Like us</strong><br>on Facebook</small></a>
+                    <a href="https://www.facebook.com/wheredesign.is/"><small style="display: block; margin-top: 3px;"><strong>Like us</strong><br>on Facebook</small></a>
                     <div id="twitter" class="widget widget-twitter-feed clearfix">
 
                         <h4 class="highlight-me">Twitter Feed</h4>
@@ -106,6 +106,9 @@
 
             <div class="col_half">
                 Copyrights &copy; <?= date("Y") ?> All Rights Reserved by Where Design SRL - D<br>
+                Pentru informaţii detaliate despre celelalte programe cofinanţate de Uniunea Europeană, vă invităm să vizitaţi
+                <a href="http://www.fonduri-ue.ro/">www.fonduri-ue.ro</a>. Conţinutul acestui material nu reprezintă în mod obligatoriu poziţia oficială a Uniunii Europene sau a Guvernului României.
+                <a href="http://www.anpc.gov.ro/">ANPC.</a>
             </div>
 
             <div class="col_half col_last tright">
