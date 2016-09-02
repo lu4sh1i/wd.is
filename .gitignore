@@ -1,4 +1,5 @@
-.idea/
+    .idea/
 .idea/*
 .htaccess
+js/atvImg
 .DS_Store
