@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="<?= isset($FONTICONS) ? $FONTICONS :'css/font-icons.css'?>" type="text/css" />
     <link rel="stylesheet" href="<?= isset($ANIMATE) ? $ANIMATE :'css/animate.css'?>" type="text/css" />
     <link rel="stylesheet" href="<?= isset($MAGNIFIC) ? $MAGNIFIC :'css/magnific-popup.css'?>" type="text/css" />
-    <link rel="stylesheet" href="<?= isset($ATVIMG) ? $ATVIMG :'css/atvimg.css'?>" type="text/css" />
+    <link rel="stylesheet" href="<?= isset($ATVIMG) ? $ATVIMG :'css/atvImg.css'?>" type="text/css" />
 
     <link rel="stylesheet" href="<?= isset($RESPONSIVE) ? $RESPONSIVE : 'css/responsive.css'?>" type="text/css" />
     <link rel="stylesheet" href="<?= isset($COLORS) ? $COLORS : 'css/colors.css'?>" type="text/css" />
