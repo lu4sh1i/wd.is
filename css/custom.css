@@ -9,6 +9,10 @@
     font-size:1.2em;
 }
 
+.large-p {
+    font-size:22px;
+}
+
 .content-wrap {
     padding-bottom: 0;
 }
@@ -44,6 +48,17 @@
 
 .button-full-rounded {
     border-radius:200px;
+}
+
+.visit-link {
+    font-size: 1.5em;
+    border-bottom: 3px solid;
+    padding-bottom: 6px;
+    color:black;
+}
+
+.visit-link:hover {
+    color:#1ABC9C;
 }
 
 .drop-shadow-1 {
@@ -124,6 +139,15 @@
     font-family:'Playfair Display';
     font-weight: 400;
 }
+
+.topmargin-xs {
+    margin-top:15px !important;
+}
+
+.portfolio-2 .portfolio-item {
+    padding-right: 25px;
+}
+
 
 @media (max-width: 767px) {
     .slider-caption p {

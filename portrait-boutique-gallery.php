@@ -1,5 +1,5 @@
 <?php
-    $TITLE = "EvyDent Dental Clinic";
+    $TITLE = "Portrait Boutique Gallery - Website design";
     include "header.php" ?>
 
     <!-- Document Wrapper
@@ -13,7 +13,7 @@
         ?>
         <!-- Content
         ============================================= -->
-        <?php include "partial/works/content-evydent.php" ?>
+        <?php include "partial/works/content-pbg.php" ?>
         
         <!-- Footer
         ============================================= -->

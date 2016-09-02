@@ -51,8 +51,22 @@ $EMAIL = "hello@wheredesign.is"
             <!-- Portfolio Items
             ============================================= -->
             <div id="portfolio" class="portfolio grid-container portfolio-2 clearfix">
-
                 <article class="portfolio-item pf-media pf-icons" data-animate="fadeInLeft">
+                    <div class="">
+                        <a href="pbg">
+                        <div class="atvImg" style="height:300px">
+                            <img src="images/pbg/portraitboutiquegallery.png">
+                            <div class="atvImg-layer" data-img="images/pbg/pbg-bg.png"></div>
+                            <div class="atvImg-layer" data-img="images/pbg/pbg-logo.png"></div>
+                        </div>
+                        </a>
+                    </div>
+                    <div class="portfolio-desc">
+                        <h3><a href="pbg">Portrait boutique gallery</a></h3>
+                        <span><a href="#">Website design</a></span>
+                    </div>
+                </article>
+                <article class="portfolio-item pf-media pf-icons" data-animate="fadeInRight">
                     <div class="">
                         <a href="evydent.php">
                             <div class="atvImg" style="height:300px">
@@ -62,7 +76,7 @@ $EMAIL = "hello@wheredesign.is"
                                 <div class="atvImg-layer" data-img="images/evydent/evydent-logo.png"></div>
                                 <div class="atvImg-layer" data-img="images/evydent/heart.png"></div>
 
-                            </div>
+                            </div> 
                         </a>
                     </div>
                     <div class="portfolio-desc">
@@ -70,29 +84,30 @@ $EMAIL = "hello@wheredesign.is"
                         <span><a href="#">Branding</a></span>
                     </div>
                 </article>
- <article class="portfolio-item pf-media pf-icons" data-animate="fadeInLeft">
- <div id="dribbble" class="widget clearfix">
-
-                    <h4 class="highlight-me">Dribbble Shots</h4>
-                    <div id="dribbble-widget" class="dribbble-shots masonry-thumbs" data-user="wheredesign" data-count="16" data-type="user"></div>
-
-                </div>
-
-</article>
-            </div><!-- #portfolio end -->
-
                 
-        </div>
-        <div class="clear"></div>
+                
+        </div><!-- #portfolio end -->
 
-        <div class="promo parallax promo-dark promo-flat promo-full topmargin-sm nobottommargin nobottompadding" style="background-image: url('images/wheredesign-wall.jpg'); background-position: 50% 146.5px;" data-stellar-background-ratio="0.5">
-            <div class="container clearfix">
-               <h3>Call us today at <span><a href="tel:<?= $PHONE ?>"><?= $PHONE ?></a></span> or Email us at <span><a href="mailto:<?= $EMAIL ?>"><?= $EMAIL ?></a></span></h3>
 
-               <a href="contact" class="button button-light button-xlarge button-border button-rounde infinite " data-animate="pulse">Start Now</a>
-           </div>
-       </div>
+                   <div id="dribbble" class="widget clearfix">
 
-   </div>
+                        <h4 class="highlight-me">Dribbble Shots</h4>
+                        <div id="dribbble-widget" class="dribbble-shots masonry-thumbs" data-user="wheredesign" data-count="16" data-type="user"></div>
+
+                    </div>
+
+
+    </div>
+    <div class="clear"></div>
+
+    <div class="promo parallax promo-dark promo-flat promo-full topmargin-sm nobottommargin nobottompadding" style="background-image: url('images/wheredesign-wall.jpg'); background-position: 50% 146.5px;" data-stellar-background-ratio="0.5">
+        <div class="container clearfix">
+         <h3>Call us today at <span><a href="tel:<?= $PHONE ?>"><?= $PHONE ?></a></span> or Email us at <span><a href="mailto:<?= $EMAIL ?>"><?= $EMAIL ?></a></span></h3>
+
+         <a href="contact" class="button button-light button-xlarge button-border button-rounde infinite " data-animate="pulse">Start Now</a>
+     </div>
+ </div>
+
+</div>
 
 </section><!-- #content end -->
